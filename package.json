@@ -1,0 +1,28 @@
+{
+  "main": "./lib/proc-title-watch.js",
+  "name": "proc-title-watch",
+  "description": "Monitor Processes and their titles",
+  "version": "0.1.0",
+  "licenses": [
+    {
+      "type": "MIT",
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joncppl/proc-title-watch"
+  },
+  "bugs": {
+    "url": "https://github.com/joncppl/proc-title-watch/issues"
+  },
+  "homepage": "https://github.com/joncppl/proc-title-watch",
+  "keywords": [
+    "process",
+    "title",
+    "watch",
+    "native"
+  ],
+  "dependencies": {
+    "nan": "2.3.2"
+  }
+}
